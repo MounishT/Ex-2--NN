@@ -1,4 +1,4 @@
-<H3>Name : T NOUNISH</H3>
+<H3>Name : T MOUNISH</H3>
 <H3>Register no: 212223240098</H3>
 <H3>Date : 16/09/2025</H3>
 <H3>Experiment No. 2 </H3>
